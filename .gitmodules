@@ -1,0 +1,30 @@
+[submodule "bundle/vim-ruby"]
+	path = bundle/vim-ruby
+	url = git@github.com:vim-ruby/vim-ruby.git
+[submodule "bundle/fuzzy-search-command-t"]
+	path = bundle/fuzzy-search-command-t
+	url = git@github.com:wincent/command-t.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = git@github.com:scrooloose/nerdcommenter.git
+[submodule "bundle/lightline"]
+	path = bundle/lightline
+	url = git@github.com:itchyny/lightline.vim.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = git@github.com:wincent/command-t.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git@github.com:ervandew/supertab.git
+[submodule "bundle/vim-bundler"]
+	path = bundle/vim-bundler
+	url = git@github.com:tpope/vim-bundler.git
+[submodule "bundle/vim-endwise"]
+	path = bundle/vim-endwise
+	url = git@github.com:tpope/vim-endwise.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = git@github.com:tpope/vim-rails.git
